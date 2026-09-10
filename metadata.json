@@ -1,0 +1,6 @@
+{
+  "name": "Production Comparison Dashboard",
+  "description": "Dashboard interaktif untuk membandingkan performa produksi aktual, demand, forecast, dan budget berdasarkan data perkebunan GGP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
